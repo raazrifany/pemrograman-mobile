@@ -1,0 +1,8 @@
+<resources>
+    <string name="get_full_name">Full Name %1$s</string>
+    <string name="app_name" />
+    <string-array name="prodi">
+        <item>Sistem Informasi</item>
+        <item>Manajemen Informatika</item>
+    </string-array>
+</resources>
